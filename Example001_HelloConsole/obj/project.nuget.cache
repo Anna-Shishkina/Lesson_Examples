@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2SEeGKBGTI+RnbRFPxEC9q9yekm3F39Sai7Oe6jPc0iExj6NkxBLXYFKU1v6ysuYpVjCV7K4TTqZ8O8sZuk+5A==",
+  "dgSpecHash": "XPwJU+ARoyhQn93twEcuLS+5NQ3aIrjom2zpoKN7uCvnu55LhVhagB6v6NNFU1K1QoVHeyE4cacsuum51Qav7w==",
   "success": true,
-  "projectFilePath": "D:\\Обучение\\Курс 3 - СиШарп\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\Обучение\\Курс 3 - СиШарп\\Lesson_Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
